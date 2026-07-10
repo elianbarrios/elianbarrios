@@ -39,5 +39,5 @@
 
 ### Environment
 <a href="https://github.com/LelouchFR/skill-icons">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github,githubcopilot&perline=7" alt="environment">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github&perline=7" alt="environment">
 </a>
