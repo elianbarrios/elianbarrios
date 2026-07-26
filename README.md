@@ -24,7 +24,7 @@
 ## Skills
 ### Languages
 <a href="https://github.com/LelouchFR/skill-icons">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,ts&perline=7" alt="languages">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,ts,python&perline=7" alt="languages">
 </a>
 
 ### Frameworks & Libraries
@@ -39,5 +39,5 @@
 
 ### Environment
 <a href="https://github.com/LelouchFR/skill-icons">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github&perline=7" alt="environment">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github,raspberrypi&perline=7" alt="environment">
 </a>
