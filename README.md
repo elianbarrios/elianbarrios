@@ -21,6 +21,8 @@
   </p>
 </div>
 
+[![Elián's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elianbarrios&theme=react-dark&custom_title=Elian's+Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Skills
 ### Languages
 <a href="https://github.com/LelouchFR/skill-icons">
