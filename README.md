@@ -21,7 +21,7 @@ Systems Engineer with 2+ years of experience in software development. In my day 
   </p>
 </div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=elianbarrios&area=true&hide_border=true&theme=react-dark&custom_title=Elian's+Contribution+Graph" alt="Elián's GitHub Activity Graph"></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=elianbarrios&area=true&hide_border=true&theme=react-dark&custom_title=Elian's+Contribution+Graph&color=58a6ff&line=1f6feb" alt="Elián's GitHub Activity Graph"></a>
 
 ## Skills 🧠
 ### Languages
