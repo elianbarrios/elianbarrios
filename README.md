@@ -2,12 +2,12 @@
   <h3>👋 Hi, I’m Elián</h3>
   <p> I'm a software developer from Guatemala 🇬🇹</p>
   
-  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/A1-61DAFB?&label=English&labelColor=131b39&style=for-the-badge"></a>
-  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/Native-61DAFB?&label=Spanish&labelColor=131b39&style=for-the-badge"></a>
+  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/A1-58a6ff?&label=English&labelColor=131b39&style=for-the-badge"></a>
+  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/Native-58a6ff?&label=Spanish&labelColor=131b39&style=for-the-badge"></a>
 </div>
 
 ## About Me 🚀
-Systems Engineer with 2+ years of experience in software development. In my day job as a **.NET Developer**, I maintain and optimize enterprise **legacy systems**. On my own time, I build modern web applications using **Angular** and **PostgreSQL**.
+Systems Engineer with 2+ years of experience in software development. In my day job as a **Software Developer**, I maintain and optimize enterprise **.NET legacy systems**. On my own time, I build modern web applications using **Angular** and **PostgreSQL**.
 - 🐧 **Environment:** Linux daily driver for development and personal workflows.
 - 🍓 **Hobbies:** Personal software projects, Raspberry Pi experiments, and chess.
 - 🎯 **Focus:** Combining real-world maintenance skills with modern development patterns.
@@ -34,7 +34,7 @@ Systems Engineer with 2+ years of experience in software development. In my day 
 <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver&perline=7" alt="databases"></a>
 
 ### Environment
-<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,raspberrypi,kitty,zen,dbeaver,visualstudio,vscode,docker,git,github&perline=7" alt="environment"></a>
+<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,gnome,raspberrypi,kitty,zen,dbeaver,visualstudio,vscode,git,github,postman,docker&perline=7" alt="environment"></a>
 
 ## Let's Connect! 🌐
 <p align="center">
