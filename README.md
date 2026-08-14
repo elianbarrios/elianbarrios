@@ -2,8 +2,8 @@
   <h3>👋 Hi, I’m Elián</h3>
   <p> I'm a software developer from Guatemala 🇬🇹</p>
   
-  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/A1-58a6ff?&label=English&labelColor=131b39&style=for-the-badge"></a>
-  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/Native-58a6ff?&label=Spanish&labelColor=131b39&style=for-the-badge"></a>
+  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/A1-1f6feb?&label=English&labelColor=131b39&style=for-the-badge"></a>
+  <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/Native-1f6feb?&label=Spanish&labelColor=131b39&style=for-the-badge"></a>
 </div>
 
 ## About Me 🚀
@@ -35,6 +35,9 @@ Systems Engineer with 2+ years of experience in software development. In my day 
 
 ### Environment
 <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,gnome,raspberrypi,kitty,zen,dbeaver,visualstudio,vscode,git,github,postman,docker&perline=7" alt="environment"></a>
+
+### IA
+<a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=googlegemini,opencode,ollama&perline=7" alt="IA"></a>
 
 ## Let's Connect! 🌐
 <p align="center">
