@@ -34,14 +34,14 @@ Systems Engineer with 2+ years of experience in software development. In my day 
 <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver&perline=7" alt="databases"></a>
 
 ### Environment
-<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,gnome,raspberrypi,kitty,zen,dbeaver,visualstudio,vscode,git,github,postman,docker&perline=7" alt="environment"></a>
+<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,gnome,bash,kitty,zen&perline=7" alt="environment"></a>
 
-### IA
-<a href="https://github.com/thuongtruong109/icoziv"><img src="https://i.icoziv.workers.dev/icons?i=googlegemini,opencode,ollama&perline=7" alt="IA"></a>
+### Tools
+<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver,visualstudio,vscode,postman,docker,gemini,supabase,vercel&perline=7" alt="environment"></a>
 
 ## Let's Connect! 🌐
 <p align="center">
-  <a href="https://www.linkedin.com/in/elian-barrios"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <a href="https://www.linkedin.com/in/elianbarrios"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
   <a href="https://x.com/elianbarrios_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter profile"></a>
   <a href="https://elianbarrios.netlify.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
