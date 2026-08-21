@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 🚀
-Systems Engineer with 2+ years of experience in software development. In my day job as a **Software Developer**, I maintain and optimize enterprise **.NET legacy systems**. On my own time, I build modern web applications using **Angular** and **PostgreSQL**.
+Systems engineer student with 2+ years of experience in software development. In my day job as a **Software Developer**, I maintain and optimize enterprise **.NET legacy systems**. On my own time, I build modern web applications using **Angular** and **PostgreSQL**.
 - 🐧 **Environment:** Linux daily driver for development and personal workflows.
 - 🍓 **Hobbies:** Personal software projects, Raspberry Pi experiments, and chess.
 - 🎯 **Focus:** Combining real-world maintenance skills with modern development patterns.
@@ -43,5 +43,5 @@ Systems Engineer with 2+ years of experience in software development. In my day 
 <p align="center">
   <a href="https://www.linkedin.com/in/elianbarrios"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
   <a href="https://x.com/elianbarrios_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter profile"></a>
-  <a href="https://elianbarrios.netlify.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://elianbarrios.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
