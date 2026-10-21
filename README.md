@@ -25,7 +25,7 @@ Systems engineer student with 2+ years of experience in software development. In
 
 ## Skills 🧠
 ### Languages
-<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,ts,python&perline=7" alt="languages"></a>
+<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=cs,vb,html,css,js,ts,micropython&perline=7" alt="languages"></a>
 
 ### Frameworks & Libraries
 <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,angular,bootstrap,tailwindcss,daisyui,avaloniaui&perline=7" alt="frameworks and libraries"></a>
@@ -37,7 +37,7 @@ Systems engineer student with 2+ years of experience in software development. In
 <a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,gnome,bash,kitty,zen&perline=7" alt="environment"></a>
 
 ### Tools
-<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver,visualstudio,vscode,postman,docker,gemini,supabase,vercel&perline=7" alt="environment"></a>
+<a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=dbeaver,visualstudio,vscode,postman,docker,antigravity,opencode,supabase,vercel&perline=7" alt="environment"></a>
 
 ## Let's Connect! 🌐
 <p align="center">
