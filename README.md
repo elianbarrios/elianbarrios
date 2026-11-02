@@ -9,7 +9,7 @@
 
 ## About Me 🚀
 
-**Software Developer** and Systems Engineering student with **2+ years of experience**. In my day-to-day work, I support, expand, and build **enterprise legacy systems**, balancing the stability of established architectures with the development of new features. In my personal projects, I explore modern architectures, full-stack development, and AI-driven workflows.
+**Software Developer** and Systems Engineering student with **2+ years of experience**. In my day-to-day work, I support, expand, and build **enterprise legacy systems**, balancing the stability of established architectures with the development of new features.
 
 - 🐧 **Environment:** Linux daily driver for development and personal workflows.
 - 🎯 **Focus:** Combining real-world maintenance skills with modern development patterns.
